@@ -1,0 +1,2 @@
+This is a peroject I Took Inspiration from open resources like Youtube and google.
+Assets are created from JS Mastery.
